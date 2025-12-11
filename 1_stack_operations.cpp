@@ -13,6 +13,7 @@ class Stack
     {
         size=s;
         top=-1;
+        top=-2;
     }
 
     void push(int items)
